@@ -17,4 +17,5 @@
 //CConcurrent collections demo
 //ConcurrentCollectionsDemo ccd = new ConcurrentCollectionsDemo();
 //ccd.ConcurrentDictionaryDemo();
-Console.WriteLine("C# demo examples!");
+//Console.WriteLine("C# demo examples!");
+DIProgram.RunDIDemo().GetAwaiter().GetResult();

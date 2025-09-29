@@ -39,3 +39,7 @@ artifacts/
 # OS generated files
 .DS_Store
 Thumbs.db
+
+# Log files
+log.txt
+*.log
